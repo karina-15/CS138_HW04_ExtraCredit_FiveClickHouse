@@ -3,7 +3,7 @@
 
 ## Screenshot
 
-<img src="./Five-click-house.png" alt="Five click house GIF" height="550" width="550">
+<img src="./Five-click-house.gif" alt="Five click house GIF" height="550" width="550">
 
 # Features
 
@@ -24,6 +24,7 @@ center of a square window.  The windows is half as wide as the door.  The last
 click will indicate the peak of the roof.  The edges of the roof will extend  
 from the point at the peak to the corners of the top edge of the house frame.
 
-Python Programming: An Introduction to Computer Science, 2nd edition, Zelle,  
- 2010; ISBN: 978-1-59028-241-0  
+# Textbook
+Python Programming: An Introduction to Computer Science,  
+2nd edition, Zelle, 2010; ISBN: 978-1-59028-241-0  
 (#11 pg. 120)
